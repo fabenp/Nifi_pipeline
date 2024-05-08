@@ -49,5 +49,6 @@ This project aims to build a robust data pipeline using Apache NiFi to collect w
 
 ## Contributors
 - [Fatma Ben Dhieb](https://github.com/fabenp)
+https://courses.cs.ut.ee/2023/cloud/spring/Main/Practice9#:~:text=Create%20a%20processor%20group%20with,processor%20from%20the%20processor%20panel.&text=The%20OpenWeatherMap%20API%20key%20goes,parameter%3Aappid%3D%24%7Btoken%7D.
 
 
